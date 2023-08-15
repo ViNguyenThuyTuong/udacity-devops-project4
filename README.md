@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![ViNguyenThuyTuong](https://app.circleci.com/pipelines/github/ViNguyenThuyTuong/udacity-devops-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/ViNguyenThuyTuong/udacity-devops-project4)
 
 ## Project Overview
 
