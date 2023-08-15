@@ -1,4 +1,4 @@
-[![ViNguyenThuyTuong](https://app.circleci.com/pipelines/github/ViNguyenThuyTuong/udacity-devops-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/ViNguyenThuyTuong/udacity-devops-project4)
+[![ViNguyenThuyTuong](https://circleci.com/gh/ViNguyenThuyTuong/udacity-devops-project4.svg?style=svg)](https://circleci.com/gh/ViNguyenThuyTuong/udacity-devops-project4)
 
 ## Project Overview
 
